@@ -12,3 +12,5 @@ Eliminar mensajes automáticamente - Restricción de mensajes - Prohibir palabra
 **/wordrestrict** ***delete*** "text" = to remove a word from the forbidden words list
 
 **/wordrestrict** ***list*** = to see the list of forbidden words for that group
+
+# The words are stored in a .json file called word_restrict.json
