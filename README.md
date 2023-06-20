@@ -1,5 +1,7 @@
 # bot-wa-node-restrict_messages
-auto delete messages - message restrict - forbid word for WhatsApp bot node
+Auto delete messages - message restrict - forbid word for WhatsApp bot node
+
+Eliminar mensajes automáticamente - Restricción de mensajes - Prohibir palabra para el nodo bot de WhatsApp
 
 # words are restricted by group, not restricted for all WhatsApp groups
 
