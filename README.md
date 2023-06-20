@@ -13,4 +13,4 @@ Eliminar mensajes automáticamente - Restricción de mensajes - Prohibir palabra
 
 **/wordrestrict** ***list*** = to see the list of forbidden words for that group
 
-# The words are stored in a .json file called word_restrict.json
+# The words are stored in a `.json` file called `word_restrict.json`
